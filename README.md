@@ -1,7 +1,7 @@
 # MERN Stack Blogging Platform
 
 **Author:** Omkar Singh  
-**Date:** [Submission Date]  
+
 
 ---
 
